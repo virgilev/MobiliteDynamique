@@ -1,0 +1,6 @@
+framework module Pods_MobiliteDynamique {
+  umbrella header "Pods-MobiliteDynamique-umbrella.h"
+
+  export *
+  module * { export * }
+}
